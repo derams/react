@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.topic{
+    padding:5px;
+    line-height: 40px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+.topic img{
+    height: 30px;
+    display: block;
+    float: left;
+}
+.topic-num{
+    padding:0 5px;
+}
+.topic-tab{
+    margin:0 5px;
+    background-color: lightgreen;
+    padding: 0 5px;
+    border-radius: 5px;
+}
+
+.show-topic{
+    margin: 10px;
+    padding: 10px;
+    background-color: #ccc;
+}
+.content img{
+    width: 100%;
+}
+.content ul{
+    list-style-position: inside;
+}
+.comment img{
+    width: 50px;
+}
+
+
+
+
